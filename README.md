@@ -25,7 +25,7 @@ Todo
 
 I tried to more or less copy the home screen, the list of waste collections and the side menu.<br> 
 Fun fact - collection dates for the given address are generated programmatically and based on the actual dates.<br>
-Obviously the original app can be improved in many ways. Just for the heck of it I added two mapview screens - **Bulky waste** and **'Szops'** - problem waste. JSON files were scrapped of the website.
+Obviously the original app can be improved in many ways. Just for the heck of it I added two features - **Bulky waste collections map** and **'Szop collections map'** - problem waste. JSON files were scrapped of the website.
 
 ## Overlays 🗺 ~2018 (iOS)
 
