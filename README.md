@@ -1,12 +1,5 @@
 # Miscellaneous
 
-## Tchibo Capsules Tracker Demo (iOS)
-UI: SwiftUI<br>
-iOS: 18
-
-☕️ Tracks your Tchibo coffee capsules collection<br>
-❤️ Logs estimated caffeine amount to HealthKit
-
 ## SF Symbol finder (MacOS)
 Finds SF symbols related to the query and similar words
 ![Demo](Images/sf.mov)
