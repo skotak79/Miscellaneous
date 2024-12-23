@@ -9,6 +9,7 @@ iOS: 18
 
 ## SF Symbol finder (MacOS)
 Finds SF symbols related to the query and similar words
+![Demo](Images/sf.mov)
 
 ## Lotto Skaner (iOS)
 
