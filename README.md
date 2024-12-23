@@ -1,6 +1,6 @@
 # Miscellaneous
 
-## Tchibo Capsule Tracker Demo (iOS)
+## Tchibo Capsules Tracker Demo (iOS)
 UI: SwiftUI<br>
 iOS: 18
 
@@ -21,12 +21,12 @@ Todo
 - [ ] improve the UI
 
 ## Kiedy wywóz (iOS)
-
+![Demo](Images/Kiedy_wywoz.gif)</br>
 [www.kiedywywoz.pl](https://www.kiedywywoz.pl)
 
 I tried to more or less copy the home screen, the list of waste collections and the side menu.<br> 
 Collection dates for the given address are generated programmatically.<br>
-Obviously the original app can be improved in many ways. Just for the heck of it I added two screens - **Bulky waste collections (Gabaryty) map** and **'Problematic collections (Szops) map'**. JSON files were scrapped of the Ekosystem website.
+Obviously the original app can be improved in many ways. Just for the heck of it I added two screens - **Bulky waste collections (Gabaryty) map** and **'Problematic collections (Szops) map'**. JSON files were scrapped from the Ekosystem website.
 
 ## Overlays 🗺 ~2018 (iOS)
 
