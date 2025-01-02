@@ -19,7 +19,12 @@ Todo
 - [ ] ... 
 
 ## Kiedy wywóz (iOS)
-![Demo](Images/Kiedy_wywoz.gif)</br>
+![Demo](Images/Kiedy_wywoz2.gif)</br>
+<div>
+<img src="Images/KiedyWywoz_home.png" height="400"/>
+<img src="Images/KiedyWywoz_list.png" height="400" hspace="20"/>
+</div>
+
 [www.kiedywywoz.pl](https://www.kiedywywoz.pl)
 
 I tried to more or less copy the home screen, the list of waste collections and the side menu.<br> 
